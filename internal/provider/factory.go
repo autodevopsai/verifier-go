@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/autodevops/verifier-go/internal/config"
+	"github.com/autodevopsai/verifier-go/internal/config"
 )
 
 // LLMProvider is the interface for AI providers.

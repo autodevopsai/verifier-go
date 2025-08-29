@@ -5,7 +5,7 @@ import (
 	"os"
 	
 	"github.com/spf13/cobra"
-	"github.com/autodevops/verifier-go/internal/util"
+	"github.com/autodevopsai/verifier-go/internal/util"
 	"github.com/sirupsen/logrus"
 )
 

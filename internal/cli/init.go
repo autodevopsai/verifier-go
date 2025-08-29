@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/autodevops/verifier-go/internal/config"
+	"github.com/autodevopsai/verifier-go/internal/config"
 	"github.com/spf13/cobra"
 )
 

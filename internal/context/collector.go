@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/autodevops/verifier-go/internal/agent"
+	"github.com/autodevopsai/verifier-go/internal/agent"
 	"github.com/go-git/go-git/v5"
 	"github.com/go-git/go-git/v5/plumbing"
 	"github.com/go-git/go-git/v5/plumbing/object"

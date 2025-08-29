@@ -3,7 +3,7 @@
 Go implementation of the AutoDevOps Verifier CLI.
 
 - Language: Go 1.25+
-- Module: `github.com/autodevops/verifier-go` (will update to `github.com/autodevopsai/verifier-go` after migration)
+- Module: `github.com/autodevopsai/verifier-go` (will update to `github.com/autodevopsai/verifier-go` after migration)
 - Entry point: `cmd/verifier` (Cobra-based CLI)
 
 ## Quick Start

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 	
-	"github.com/autodevops/verifier-go/internal/config"
-	"github.com/autodevops/verifier-go/internal/provider"
+	"github.com/autodevopsai/verifier-go/internal/config"
+	"github.com/autodevopsai/verifier-go/internal/provider"
 )
 
 type SecurityScanAgent struct {

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/autodevops/verifier-go/internal/agent"
-	"github.com/autodevops/verifier-go/internal/config"
-	"github.com/autodevops/verifier-go/internal/context"
+	"github.com/autodevopsai/verifier-go/internal/agent"
+	"github.com/autodevopsai/verifier-go/internal/config"
+	"github.com/autodevopsai/verifier-go/internal/context"
 	"github.com/spf13/cobra"
 )
 

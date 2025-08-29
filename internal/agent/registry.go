@@ -3,7 +3,7 @@ package agent
 import (
 	"fmt"
 	
-	"github.com/autodevops/verifier-go/internal/config"
+	"github.com/autodevopsai/verifier-go/internal/config"
 )
 
 var agentInitializers map[string]func(cfg *config.Config) Agent

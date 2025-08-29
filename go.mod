@@ -1,4 +1,4 @@
-module github.com/autodevops/verifier-go
+module github.com/autodevopsai/verifier-go
 
 go 1.25.0
 
