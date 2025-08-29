@@ -1,4 +1,3 @@
 # Contributors
 
 - social protocol labs
-

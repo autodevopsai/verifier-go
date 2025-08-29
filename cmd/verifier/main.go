@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/autodevops/verifier-go/internal/cli"
+	"github.com/autodevopsai/verifier-go/internal/cli"
 )
 
 func main() {

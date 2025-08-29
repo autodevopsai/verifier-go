@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/autodevops/verifier-go/internal/storage"
+	"github.com/autodevopsai/verifier-go/internal/storage"
 	"github.com/olekukonko/tablewriter"
 	"github.com/spf13/cobra"
 )

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 	
-	"github.com/autodevops/verifier-go/internal/config"
-	"github.com/autodevops/verifier-go/internal/storage"
+	"github.com/autodevopsai/verifier-go/internal/config"
+	"github.com/autodevopsai/verifier-go/internal/storage"
 )
 
 type AgentRunner struct {
